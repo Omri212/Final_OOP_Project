@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Alphabetical">
+  <Class Name="StoreCreatorAndMenagmentSystem_oop_project.sourceFiles.product">
+    <Position X="9" Y="2.75" Width="2.5" />
+    <Members>
+      <Property Name="color" Hidden="true" />
+      <Method Name="color_menu" Hidden="true" />
+      <Property Name="description" Hidden="true" />
+      <Property Name="Id" Hidden="true" />
+      <Property Name="price" Hidden="true" />
+      <Property Name="Price" Hidden="true" />
+      <Method Name="product" Hidden="true" />
+      <Property Name="ProductType" Hidden="true" />
+      <Property Name="sn" Hidden="true" />
+      <Property Name="type" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>BgALAAAQAQAIAAQEICBAAAAAQAEBgACAAABAAAAAABA=</HashCode>
+      <FileName>sourceFiles\Product.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="StoreCreatorAndMenagmentSystem_oop_project.sourceFiles.buyer">
+    <Position X="7.25" Y="3.75" Width="1.5" />
+    <Members>
+      <Property Name="ShoppingCart" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAEAAgAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>sourceFiles\buyer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoreCreatorAndMenagmentSystem_oop_project.sourceFiles.Clothing">
+    <Position X="11.25" Y="6.5" Width="1.5" />
+    <Members>
+      <Method Name="Clothing" Hidden="true" />
+      <Method Name="size_menu" Hidden="true" />
+      <Method Name="type_menu" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAMAAAAAAQACAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>sourceFiles\Clothing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoreCreatorAndMenagmentSystem_oop_project.sourceFiles.Electronic">
+    <Position X="9.5" Y="6.5" Width="1.5" />
+    <Members>
+      <Property Name="Brand" Hidden="true" />
+      <Method Name="brand_menu" Hidden="true" />
+      <Method Name="Electronic" Hidden="true" />
+      <Property Name="Warrenty" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAABAAAAAAAAQAACABAAAAAAAAABAAA=</HashCode>
+      <FileName>sourceFiles\Electronic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoreCreatorAndMenagmentSystem_oop_project.sourceFiles.Furniture">
+    <Position X="7.75" Y="6.5" Width="1.5" />
+    <Members>
+      <Method Name="Furniture" Hidden="true" />
+      <Property Name="Material" Hidden="true" />
+      <Method Name="material_menu" Hidden="true" />
+      <Property Name="Style" Hidden="true" />
+      <Method Name="style_menu" Hidden="true" />
+      <Method Name="type_menu" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AEACAAAAAAAAAAAAAEAAAAAAQAAAAAAADACAACAAAAA=</HashCode>
+      <FileName>sourceFiles\Furniture .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoreCreatorAndMenagmentSystem_oop_project.sourceFiles.HouseholdElectronic">
+    <Position X="8.5" Y="8.75" Width="1.5" />
+    <Members>
+      <Method Name="HouseholdElectronic" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sourceFiles\HouseholdElectronic .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoreCreatorAndMenagmentSystem_oop_project.sourceFiles.Store">
+    <Position X="11.75" Y="3.75" Width="1.5" />
+    <Members>
+      <Method Name="addProduct" Hidden="true" />
+      <Field Name="capitalLetters" Hidden="true" />
+      <Field Name="chars" Hidden="true" />
+      <Method Name="data_validate" Hidden="true" />
+      <Field Name="nonCapitalLetters" Hidden="true" />
+      <Property Name="password" Hidden="true" />
+      <Method Name="password_valid" Hidden="true" />
+      <Method Name="password_validate" Hidden="true" />
+      <Method Name="Store" Hidden="true" />
+      <Property Name="store_manager_name" Hidden="true" />
+      <Property Name="storeName" Hidden="true" />
+      <Property Name="storeProductList" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AEQAAAAQQUAAAAAAAAAMACAAAEAAgAAAAAAAggCAAAg=</HashCode>
+      <FileName>sourceFiles\Store.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="password" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="StoreCreatorAndMenagmentSystem_oop_project.sourceFiles.techDevice">
+    <Position X="10.25" Y="8.75" Width="1.5" />
+    <Members>
+      <Method Name="operating_system_menu" Hidden="true" />
+      <Method Name="techDevice" Hidden="true" />
+      <Method Name="type_menu" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AJAAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>sourceFiles\techDevice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

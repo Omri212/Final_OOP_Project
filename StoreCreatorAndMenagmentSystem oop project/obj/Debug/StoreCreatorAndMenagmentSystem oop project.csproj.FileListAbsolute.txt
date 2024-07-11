@@ -1,0 +1,50 @@
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem oop project.csproj.AssemblyReference.cache
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem oop project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem_oop_project.Properties.Resources.resources
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem oop project.csproj.GenerateResource.cache
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem oop project.csproj.CoreCompileInputs.cache
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem_oop_project.Inventory.resources
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem_oop_project.managerLogin.resources
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem_oop_project.new_store.resources
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem_oop_project.storeMainScreen.resources
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem_oop_project.storeManagment.resources
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem_oop_project.ThankYouForm.resources
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project\StoreCreatorAndMenagmentSystem oop project\bin\Debug\StoreCreatorAndMenagmentSystem oop project.exe.config
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project\StoreCreatorAndMenagmentSystem oop project\bin\Debug\StoreCreatorAndMenagmentSystem oop project.exe
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project\StoreCreatorAndMenagmentSystem oop project\bin\Debug\StoreCreatorAndMenagmentSystem oop project.pdb
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project\StoreCreatorAndMenagmentSystem oop project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project\StoreCreatorAndMenagmentSystem oop project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem oop project.csproj.CopyComplete
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem oop project.exe
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem oop project.pdb
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project\StoreCreatorAndMenagmentSystem oop project\bin\Debug\StoreCreatorAndMenagmentSystem oop project.exe.manifest
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project\StoreCreatorAndMenagmentSystem oop project\bin\Debug\StoreCreatorAndMenagmentSystem oop project.application
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem oop project.TrustInfo.xml
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem oop project.exe.manifest
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem oop project.application
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project\StoreCreatorAndMenagmentSystem oop project\bin\Debug\AuthenticatedEncryption.dll
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project1\StoreCreatorAndMenagmentSystem oop project\bin\Debug\StoreCreatorAndMenagmentSystem oop project.exe.config
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project1\StoreCreatorAndMenagmentSystem oop project\bin\Debug\StoreCreatorAndMenagmentSystem oop project.exe.manifest
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project1\StoreCreatorAndMenagmentSystem oop project\bin\Debug\StoreCreatorAndMenagmentSystem oop project.application
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project1\StoreCreatorAndMenagmentSystem oop project\bin\Debug\StoreCreatorAndMenagmentSystem oop project.exe
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project1\StoreCreatorAndMenagmentSystem oop project\bin\Debug\StoreCreatorAndMenagmentSystem oop project.pdb
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project1\StoreCreatorAndMenagmentSystem oop project\bin\Debug\AuthenticatedEncryption.dll
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project1\StoreCreatorAndMenagmentSystem oop project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project1\StoreCreatorAndMenagmentSystem oop project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project1\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem oop project.csproj.AssemblyReference.cache
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project1\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem oop project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project1\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem_oop_project.Inventory.resources
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project1\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem_oop_project.managerLogin.resources
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project1\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem_oop_project.new_store.resources
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project1\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem_oop_project.Properties.Resources.resources
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project1\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem_oop_project.storeMainScreen.resources
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project1\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem_oop_project.storeManagment.resources
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project1\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem_oop_project.ThankYouForm.resources
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project1\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem oop project.csproj.GenerateResource.cache
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project1\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem oop project.csproj.CoreCompileInputs.cache
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project1\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem oop project.TrustInfo.xml
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project1\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem oop project.exe.manifest
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project1\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem oop project.application
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project1\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem oop project.csproj.CopyComplete
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project1\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem oop project.exe
+C:\Users\Omri-Shmuel\Desktop\StoreCreatorAndMenagmentSystem oop project1\StoreCreatorAndMenagmentSystem oop project\obj\Debug\StoreCreatorAndMenagmentSystem oop project.pdb
